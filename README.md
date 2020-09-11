@@ -44,6 +44,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 Challenges encountered:
 1) Computer is old and slow so the simplest tasks took hours (emulator took 2 hours just to press the play button and load). Everything was freezing up so it got frustrating
 2) I couldn't figure out why when I flipped the phone the orientation of the pictures wouldn't change, but it was just that the phone was locked to only potrait mode
+3) Accidentally publishing my YouTube API Key. Generated a new one and used secrets.xml that I included in .gitignore
 
 ### Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
